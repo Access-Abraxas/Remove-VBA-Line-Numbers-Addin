@@ -3,9 +3,11 @@ This 100% FREE Microsoft Access Add-In tool is designed to help you remove all o
 
 
 ## Where to Download:
-Download the FREE Remove VBA Line Numbers Add-In (.accda file) for Microsoft Access here: [Latest ACCDA Download](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/raw/refs/heads/main/RemVbaLineNums.accda)
+Download the 'Remove VBA Line Numbers' Add-In (.accda file) for MS Access: [Latest ACCDA Download](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/raw/refs/heads/main/RemVbaLineNums.accda)
 
-Or download the latest Stable Release package here: [Latest Full Release Package](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/releases)
+Or view/download the latest Stable Release package: [Latest Full Release Package](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/releases)
+
+Or view the VBA code used in this tool here: [VBA Code to Remove Line numbers](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/RemoveVbaLineNumbers.vba)
 
 
 ## How to Install:
