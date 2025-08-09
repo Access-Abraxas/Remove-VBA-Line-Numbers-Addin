@@ -15,11 +15,30 @@ To just install the latest version of this Access Add-In without messing with an
 
 1. Download the latest ACCDA file [from HERE](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/raw/refs/heads/main/RemVbaLineNums.accda).
 2. Open any database in Microsoft Access and go to the "Database Tools" ribbon menu. 
-3. On the "Database Tools" ribbon, click the "Add-Ins" option drop down, and choose the "Add-In Manager" option.  This will open the Access "Add-In Manager" form.
-4. On the "Add-In Manager" form, click the "Add New..." option.  The Access "Open" file dialog will be opened. 
-5. On the "Open" file dialog, navigate to the ACCDA file you downloaded and click the "Open" button.  
 
-You will be taken back to the "Add-In Manager" form and the Add-In should now show as installed.
+![Screenshot of the Microsoft Access Database Tools Ribbon Menu](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Database_Tools_Ribbon_menu.jpg)
+
+3. On the "Database Tools" ribbon, click the "Add-Ins" option drop down, and choose the "Add-In Manager" option.  
+
+![Microsoft Access Add-Ins Manager Menu](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Add-Ins_menu.jpg)
+
+4. The Access "Add-In Manager" form will be opened, click the "Add New..." button.
+
+![Microsoft Access Add-In Manager Add New Button](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Add-In_Manager_form.jpg)
+
+5. The Access "Open" file dialog will be opened. 
+
+![Microsoft Access Open Add-In ACCDA file dialog](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Open_Add-In_ACCDA_file.jpg)
+
+6. On the "Open" file dialog, navigate to the ACCDA file you downloaded and click the "Open" button.  
+
+![Open RemVbaLineNums.accda Add-In File in Microsoft Access](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Open_RemVbaLineNums_accda_file.jpg)
+
+7. The Add-In will be installed and will now show in the "Add-In Manager" form.
+
+![Microsoft Access Add-In Manager with new Add-In](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Add-In_Manager_with_New_Add-In.jpg)
+
+The Remove VBA Line Numbers Add-In should now be installed correctly.
 
 
 ## How to Use this Tool:
@@ -38,4 +57,11 @@ A **GREAT BIG THANKS** to the following contributors to this project:
 
 2. [Geoffrey Griffith](https://geoffreygriffith.com) - For his work to create this 100% Free tool for Microsoft Access.
 
+
+## Other Free Microsoft Access Tools:
+Some other projects I've created in MS Access that I've also made available 100% FREE:
+
+1. [Access Add-In Helper](https://github.com/Access-Abraxas/Access-Add-In-Helper)
+2. [Microsoft Access Database Property Editor Add-In](https://github.com/Access-Abraxas/Access-Database-Property-Editor-Addin)
+3. [Win32 API Declarations for VBA](https://github.com/Access-Abraxas/Win32-API-Declarations-for-VBA) 
 
