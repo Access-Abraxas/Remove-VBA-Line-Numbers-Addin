@@ -45,7 +45,7 @@ The 'Remove VBA Line Numbers' Add-In should now be installed correctly.
 
 To use this tool once it has been installed:
 
-1. Open any Access database in Microsoft Access.
+1. Open the Access database you want to remove the VBA line numbers from in Microsoft Access.
 2. On the "Database Tools" Ribbon, click the "Add-Ins" option drop down, and then choose the "Remove VBA Line Nums" option.  
 
 ![Remove VBA Line Nums on Microsoft Access Add-Ins menu](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/Screenshots/Microsoft_Access_Add-Ins_Remove_VBA_Line_Nums_menu.jpg)
