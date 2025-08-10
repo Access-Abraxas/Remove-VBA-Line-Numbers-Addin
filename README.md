@@ -70,7 +70,7 @@ A **GREAT BIG THANKS** to the following contributors to this project:
 
 
 ## Other Free Microsoft Access Tools:
-Some other projects I've created in MS Access that I've also made available 100% FREE:
+Some other projects I've created in MS Access that I've also made available __100% for FREE__:
 
 1. [Access Add-In Helper](https://github.com/Access-Abraxas/Access-Add-In-Helper)
 
