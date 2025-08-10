@@ -2,7 +2,7 @@
 This 100% FREE Microsoft Access Add-In tool is designed to help you remove all of the VBA line numbers in your VBA project with a single button click.  I've also provided a standalone VBA subroutine to remove all line numbers from all code files in a VBA project, in case it's needed for one of the other MS Office apps aside from Access, like Excel or Word.  
 
 
-###  
+ 
 ## Where to Download:
 Download the 'Remove VBA Line Numbers' Add-In (.accda file) for MS Access: [Latest ACCDA Download](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/raw/refs/heads/main/RemVbaLineNums.accda)
 
@@ -11,7 +11,7 @@ Or view/download the latest Stable Release package: [Latest Full Release Package
 Or view the VBA code used in this tool here: [VBA Code to Remove Line numbers](https://github.com/Access-Abraxas/Remove-VBA-Line-Numbers-Addin/blob/main/RemoveVbaLineNumbers.vba)
 
 
-###  
+
 ## How to Install:
 To just install the latest version of this Access Add-In without messing with any of the source code, complete the following steps:
 
@@ -43,9 +43,8 @@ To just install the latest version of this Access Add-In without messing with an
 The 'Remove VBA Line Numbers' Add-In should now be installed correctly.
 
 
-###  
-## How to Use this Tool:
 
+## How to Use this Tool:
 To use this tool once it has been installed:
 
 1. Open the Access database you want to remove the VBA line numbers from in Microsoft Access.
@@ -60,7 +59,7 @@ To use this tool once it has been installed:
 All line numbers from your VBA project will be removed and replaced with spaces.
 
 
-###  
+
 ## Project Contributors:
 A **GREAT BIG THANKS** to the following contributors to this project:
 
@@ -69,7 +68,7 @@ A **GREAT BIG THANKS** to the following contributors to this project:
 2. [Geoffrey Griffith](https://geoffreygriffith.com) - For his work to create this 100% Free tool for Microsoft Access.
 
 
-###  
+
 ## Other Free Microsoft Access Tools:
 Some other projects I've created in MS Access that I've also made available 100% FREE:
 
