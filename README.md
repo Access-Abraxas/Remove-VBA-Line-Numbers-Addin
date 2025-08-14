@@ -63,7 +63,7 @@ All line numbers from your VBA project will be removed and replaced with spaces.
 ## Project Contributors:
 A **GREAT BIG THANKS** to the following contributors to this project:
 
-1. [The MS Access MVP Group]() - For inspiring this tool.
+1. [The MS Access MVP Group](https://imaginethought.com) - For inspiring this tool.
 
 2. [Geoffrey Griffith](https://geoffreygriffith.com) - For his work to create this 100% Free tool for Microsoft Access.
 
